@@ -5,6 +5,8 @@
  
 &nbsp; &nbsp; &nbsp; &nbsp; Berrymart is a project requirement in one of our Computer Science, Web Systems and Technologies 2 courses, which utilizes PHP Laravel Framework. It has two users, a vendor and a buyer. The vendor sells products, approves orders, and confirms cancellation of orders, while the buyer may order products and may also cancel the orders.
 
+<img src="https://img.shields.io/badge/php-000000.svg?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/laravel-000000.svg?style=for-the-badge&logo=laravel&logoColor=white">
+
 ## Project View:
 
 **Vendor view** 
