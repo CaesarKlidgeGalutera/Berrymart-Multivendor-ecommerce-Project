@@ -5,13 +5,14 @@
  
 &nbsp; &nbsp; &nbsp; &nbsp; Berrymart is a project requirement in one of our Computer Science, Web Systems and Technologies 2 courses, which utilizes PHP Laravel Framework. It has two users, a vendor and a buyer. The vendor sells products, approves orders, and confirms cancellation of orders, while the buyer may order products and may also cancel the orders.
 
-### Project View:
+## Project View:
+
 **Vendor view** 
 
 **Buyer View**
 
 
-### Learnings:
+## Learnings:
 &nbsp; &nbsp; &nbsp; &nbsp; **Blade templates**: Laravel's template engine that will allow developers to embed PHP code within the user's view with neat looking syntax.
 
 &nbsp; &nbsp; &nbsp; &nbsp; **CRUD**: In this project we learned about resource controllers in Laravel that is essential for the CRUD of the system. 
@@ -26,8 +27,9 @@
             • destroy
 
 &nbsp; &nbsp; &nbsp; &nbsp; **Middleware**: This is for user authentication as an intermediary. Middleware checks if user request is authenticated and submits it to backend if authenticated.
+
  
- ### Contributors:
+ ## Contributors:
  **Project Lead/ Front-end developer/ UI/UX Designer**:
 
  Aaron Zayke Lecort | [@aaronlecourt](https://github.com/aaronlecourt)
