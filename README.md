@@ -42,11 +42,11 @@
 
  
  ## Contributors:👨‍💻
- **Project Lead/ Front-end developer/ UI/UX Designer**:
+ **Front-end developer / UI/UX Designer**:
 
  Aaron Zayke Lecort | [@aaronlecourt](https://github.com/aaronlecourt)
 
- **Back-end developer/ Database designer / System Analyzer**:
+ **Project Lead / Back-end developer / Database designer / System Analyzer**:
 
  Caesar Klidge Galutera | [@CaesarKlidgeGalutera](https://github.com/CaesarKlidgeGalutera)
 
